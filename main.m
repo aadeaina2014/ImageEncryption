@@ -3,7 +3,6 @@
 % College of Engineering
 % Electrical and Computer Engineering Department
 % ECE 5258   : Digital Image Processing
-% Instructor : Dr. Anthony O'neal Smith
 % Semester   : Fall 2015
 % Doc ref    : Fractional_main.m (main Application Driver File)
 %  (c)  October 2015,   Ayokunle Ade-Aina , Tajudeen Olasupo.
